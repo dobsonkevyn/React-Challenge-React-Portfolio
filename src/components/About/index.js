@@ -16,8 +16,8 @@ function About() {
           <p>
             Hello, my name is Kevyn Dobson. I am 29 years old. I'll be 30 in March. I live in Atlanta, GA. 
             I was born and raised in Charleston, SC. I am new to the tech field. I attend Georgia Tech Bootcamp to 
-            expand my knowledge. I'm currently employeed at State Farm as an Weather Catastrophe Specialist. In my free time
-            I love to travel, learning new ways to cook and spending time with my loved ones.
+            expand my knowledge. I'm currently employeed at State Farm as an Weather Catastrophe Specialist. I'm also an
+            vending business owner and operator. In my free time I love to travel, learning new ways to cook and spending time with my loved ones.
           </p>
         </div>
       </div>

@@ -3,7 +3,7 @@ import profileImage from "../../assets/large/profile/Photo.PNG"
 function About() {
   return (
     <section id="about-me" className="my-5 intro">
-      <div class="flex-row">
+      <div className="flex-row">
         <h1 id="about" className="section-title primary-border">
           About Me
         </h1>

@@ -9,8 +9,8 @@ function About() {
         </h1>
       </div>
       <div className="flex-row">
-        <div class="intro-info">
-          <div class="intro-img">
+        <div className="intro-info">
+          <div className="intro-img">
             <img src={profileImage} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
